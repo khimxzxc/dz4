@@ -1,0 +1,98 @@
+body{
+	font-family: Times New Roman sans-serif;
+	line-height: normal;
+	font-style: normal;
+	background-color: black;
+}
+
+h1{
+	color:  #EB2A2A;
+	font-size: 96px;
+	font-weight: 700;
+}
+h2{
+	color: #ED9B20
+	font-size: 64px;
+	font-weight: 700;
+}
+h3{
+	color: #E7C61B;
+font-weight: 700;
+font-size: 48px;
+}
+h4{
+	color: #35C91C;
+font-weight: 700;
+font-size: 40px;
+}
+h5{
+	color: #13B5CB;
+font-weight: 700;
+font-size: 36px;
+}
+h6{
+	color: #B53CDF;
+	font-weight: 700;
+	font-size: 32px;
+}
+p{
+	color: #FFF;
+font-weight: 700;
+font-size: 36px;
+
+
+}
+
+p i{
+	color: #FFED00;
+font-weight: 400;
+font-size: 36px;
+}
+
+p span{
+	color: #EB2A2A;
+font-weight: 700;
+font-size: 36px;
+}
+
+.jpg{
+	width: 1200px;
+height: 820px;
+}
+
+.p2{
+	font-size: 36px;
+	font-weight: 400;
+}
+
+.p2span{
+	color: #13B5CB;
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.p2i{
+	color: #35C91C;
+font-weight: 400;
+font-size: 36px;
+}
+
+.p3{
+	color: #FFF;
+font-weight: 400;
+font-size: 36px;
+
+
+}
+
+.p3i{
+	color: #B53BDF;
+font-weight: 400;
+font-size: 36px;
+
+}
+.p3span{
+	color: #ED9B20;
+font-weight: 700;
+font-size: 36px;
+}
